@@ -1,5 +1,5 @@
-// App.js
-// import { useState } from 'react';
+
+// import { useEffect, useState } from 'react';
 // import UserForm from './components/UserForm';
 // import UserList from './components/UserList';
 
@@ -10,7 +10,7 @@
 //   const [formData, setFormData] = useState({
 //     name: '',
 //     age: '',
-//     address: 'IUH' // Giá trị mặc định theo hình ảnh
+//     address: 'IUH' 
 //   });
 
 //   const handleSubmit = (e) => {
@@ -29,7 +29,9 @@
 //   const handleDelete = (userId) => {
 //     setUsers(users.filter(user => user.id !== userId));
 //   };
+//   useEffect( () => {
 
+//   })
 //   return (
 //     <div className="container">
 //       <h1>User Management</h1>
@@ -51,19 +53,16 @@
 // export default App;
 
 // App.jsx
-import React from 'react';
+import React from 'react'
 import MyComponent from './components/Mycomponet';
-
-
-class App extends React.Component {
-  render() {
-    return (
-      <div className="container">
+function App() {
+  return (
+    <div className="container">
         <h1>User Management</h1>
         <MyComponent />
       </div>
-    );
-  }
+  )
 }
 
-export default App;
+export default App
+
