@@ -1,0 +1,36 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Phở Bò Đặc Biệt",
+      "price": 89000,
+      "description": "Phở bò truyền thống với thịt bò tươi ngon, bánh phở mềm và nước dùng đậm đà",
+      "detailedDescription": "Món phở bò đặc biệt được nấu theo công thức gia truyền, với nước dùng ninh từ xương bò trong 12 giờ, kèm các loại thịt bò tươi ngon như tái, nạm, gầu. Ăn kèm với các loại rau thơm và gia vị đặc trưng.",
+      "image": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?ixlib=rb-4.0.3"
+    },
+    {
+      "id": 2,
+      "name": "Cơm Sườn Nướng",
+      "price": 75000,
+      "description": "Cơm với sườn nướng thơm lừng, kèm đồ chua và nước mắm",
+      "detailedDescription": "Sườn được ướp với gia vị đặc biệt, nướng trên than hoa đến khi vàng đều. Phục vụ kèm cơm trắng hạt dài thơm ngon, đồ chua và nước mắm pha chuẩn vị.",
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3"
+    },
+    {
+      "id": 3,
+      "name": "Gỏi Cuốn Tôm Thịt",
+      "price": 55000,
+      "description": "Gỏi cuốn tươi mát với tôm, thịt và rau sống",
+      "detailedDescription": "Gỏi cuốn được làm từ bánh tráng tươi, bên trong có tôm tươi, thịt luộc, bún, và các loại rau thơm. Phục vụ kèm nước chấm đậu phộng đặc biệt của nhà hàng.",
+      "image": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?ixlib=rb-4.0.3"
+    },
+    {
+      "id": 4,
+      "name": "Bún Chả Hà Nội",
+      "price": 85000,
+      "description": "Bún chả truyền thống kiểu Hà Nội với thịt nướng thơm ngon",
+      "detailedDescription": "Món bún chả truyền thống với thịt nướng và chả viên nướng trên than hoa, ăn kèm bún tươi, rau sống và nước chấm chua ngọt đặc trưng của Hà Nội.",
+      "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?ixlib=rb-4.0.3"
+    }
+  ]
+} 
