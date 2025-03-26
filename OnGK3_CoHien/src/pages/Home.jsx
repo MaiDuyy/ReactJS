@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import menuData from '../data/menu.json';
+import Card from '../components/Card';
 
 const Home = () => {
   const featuredDishes = menuData.dishes.slice(0, 3);
@@ -24,7 +25,7 @@ const Home = () => {
       {/* Featured Dishes */}
       <h2 className="text-3xl font-bold text-center mb-8">Món ăn nổi bật</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
-        {featuredDishes.map((dish) => (
+        {/* {featuredDishes.map((dish) => (
           <div key={dish.id} className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
             <img
               src={dish.image}
@@ -34,12 +35,14 @@ const Home = () => {
             <div className="p-4">
               <h3 className="text-xl font-semibold mb-2">{dish.name}</h3>
               <p className="text-gray-600 mb-3">{dish.description}</p>
-              <p className="text-primary font-bold">
+              <p className="text-red-800 font-bold">
                 {dish.price.toLocaleString('vi-VN')} VNĐ
               </p>
             </div>
           </div>
-        ))}
+        ))} */}
+
+        <Card/>
       </div>
 
       {/* About Section */}

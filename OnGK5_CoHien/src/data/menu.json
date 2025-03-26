@@ -1,0 +1,52 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "name": "Wonder",
+      "price": 89000,
+      "author": "R J Palacio",
+     "detailedDescription": "'My name is August. I won't describe what I look like. Whatever you're thinking, it's probably worse.' Auggie wants to be an ordinary ten-year-old. He does ordinary things - eating ice cream, playing on his Xbox. He feels ordinary - inside. But ordinary kids don't make other ordinary kids run away screaming in playgrounds. Ordinary kids aren't stared at wherever they go. Born with a terrible facial abnormality, Auggie has been home-schooled by his parents his whole life. Now, for the first time, he's being sent to a real school - and he's dreading it. All he wants is to be accepted - but can he convince his new classmates that he's just like them, underneath it all? Now featuring a brand-new chapter told by bully Julian, Wonder is a funny, frank, astonishingly moving debut to read in one sitting, pass on to others, and remember long after the final page.",
+      "image" : "../public/sach1.png"
+    },
+    {
+      "id": 2,
+      "name": "Những Bài Học Nhỏ Cho Bé - Tạm Biệt Bình Sữa",
+      "price": 89000,
+      "author": "Bernette Ford, Sam Williams",
+      "detailedDescription": "Tạm biệt bình sữa” là cuốn sách nằm trong bộ “Những bài học nhỏ cho bé” – bộ sách giúp hình thành và tạo lập những thói quen đầu đời cho trẻ"
+   ,"image" : "../public/sach2.png"
+    },
+    {
+      "id": 3,
+      "name": "Hướng Tư Duy Ôn Luyện Đề Chuẩn Bị Kì Thi THPTQG 2019 - Môn Ngữ Văn",
+      "price": 89000,
+      "author": "Cty Văn Hóa Khang Việt",
+      "detailedDescription": "Nhằm định hướng ôn tập kì thi THPT Quốc Gia đạt chất lượng và hiệu quả cao, tác giả xin trân trọng giới thiệu cuốn sách 'Hướng Tư Duy Ôn Luyện Đề Chuẩn Bị Kì Thi THPTQG 2019 Ngữ Văn'. Quá trình soạn đề và biên tập tác giả đã bám sát tinh thần chỉ đạo của Bộ Giáo dục và Đào tạo về nội dung thi THPTQG như: lượng kiến thức lớp 11, 12 hệ thống câu hỏi nhận biết, thông hiểu, vận dụng thấp, vận dụng cao. Cuốn sách có chắt lọc một số nguồn tài liệu uy tín như: Bộ đề thi minh họa THPT Quốc Gia 2018, Đề thi THPT Quốc Gia 2017, Website Tuyensinh.123, Thuviendientu. Hy vọng cuốn sách này là nguồn tư liệu tham khảo bổ ích cho các em học sinh và quý thầy, cô!"
+    ,"image" : "../public/sach3.png"
+    },
+    {
+      "id": 4,
+      "name": "Hướng Tư Duy Ôn Luyện Đề Chuẩn Bị Kì Thi THPTQG 2019 - Môn Ngữ Văn",
+      "price": 89000,
+      "author": "Cty Văn Hóa Khang Việt",
+      "detailedDescription": "Nhằm định hướng ôn tập kì thi THPT Quốc Gia đạt chất lượng và hiệu quả cao, tác giả xin trân trọng giới thiệu cuốn sách 'Hướng Tư Duy Ôn Luyện Đề Chuẩn Bị Kì Thi THPTQG 2019 Ngữ Văn'. Quá trình soạn đề và biên tập tác giả đã bám sát tinh thần chỉ đạo của Bộ Giáo dục và Đào tạo về nội dung thi THPTQG như: lượng kiến thức lớp 11, 12 hệ thống câu hỏi nhận biết, thông hiểu, vận dụng thấp, vận dụng cao. Cuốn sách có chắt lọc một số nguồn tài liệu uy tín như: Bộ đề thi minh họa THPT Quốc Gia 2018, Đề thi THPT Quốc Gia 2017, Website Tuyensinh.123, Thuviendientu. Hy vọng cuốn sách này là nguồn tư liệu tham khảo bổ ích cho các em học sinh và quý thầy, cô!"
+    ,"image" : "../public/sach3.png"
+    },
+    {
+      "id": 5,
+      "name": "Hướng Tư Duy Ôn Luyện Đề Chuẩn Bị Kì Thi THPTQG 2019 - Môn Ngữ Văn",
+      "price": 89000,
+      "author": "Cty Văn Hóa Khang Việt",
+      "detailedDescription": "Nhằm định hướng ôn tập kì thi THPT Quốc Gia đạt chất lượng và hiệu quả cao, tác giả xin trân trọng giới thiệu cuốn sách 'Hướng Tư Duy Ôn Luyện Đề Chuẩn Bị Kì Thi THPTQG 2019 Ngữ Văn'. Quá trình soạn đề và biên tập tác giả đã bám sát tinh thần chỉ đạo của Bộ Giáo dục và Đào tạo về nội dung thi THPTQG như: lượng kiến thức lớp 11, 12 hệ thống câu hỏi nhận biết, thông hiểu, vận dụng thấp, vận dụng cao. Cuốn sách có chắt lọc một số nguồn tài liệu uy tín như: Bộ đề thi minh họa THPT Quốc Gia 2018, Đề thi THPT Quốc Gia 2017, Website Tuyensinh.123, Thuviendientu. Hy vọng cuốn sách này là nguồn tư liệu tham khảo bổ ích cho các em học sinh và quý thầy, cô!"
+    ,"image" : "../public/sach3.png"
+    },
+    {
+      "id": 6,
+      "name": "Hướng Tư Duy Ôn Luyện Đề Chuẩn Bị Kì Thi THPTQG 2019 - Môn Ngữ Văn",
+      "price": 89000,
+      "author": "Cty Văn Hóa Khang Việt",
+      "detailedDescription": "Nhằm định hướng ôn tập kì thi THPT Quốc Gia đạt chất lượng và hiệu quả cao, tác giả xin trân trọng giới thiệu cuốn sách 'Hướng Tư Duy Ôn Luyện Đề Chuẩn Bị Kì Thi THPTQG 2019 Ngữ Văn'. Quá trình soạn đề và biên tập tác giả đã bám sát tinh thần chỉ đạo của Bộ Giáo dục và Đào tạo về nội dung thi THPTQG như: lượng kiến thức lớp 11, 12 hệ thống câu hỏi nhận biết, thông hiểu, vận dụng thấp, vận dụng cao. Cuốn sách có chắt lọc một số nguồn tài liệu uy tín như: Bộ đề thi minh họa THPT Quốc Gia 2018, Đề thi THPT Quốc Gia 2017, Website Tuyensinh.123, Thuviendientu. Hy vọng cuốn sách này là nguồn tư liệu tham khảo bổ ích cho các em học sinh và quý thầy, cô!"
+    ,"image" : "../public/sach3.png"
+    }
+  ]
+}
