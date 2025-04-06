@@ -17,7 +17,7 @@ function counterReducer(state, action) {
 function useCounterRedex() {
     const [count, dispatch] = useReducer(counterReducer, initialState);
 
-    const increment = () => dispatch({ type: 'cong' });
+    const increment = () => dispatch({ type: 'cong' });   
     const decrement = () => dispatch({ type: 'tru' });
     const reset = () => dispatch({ type: 'reset' });
     return { count, increment, decrement, reset }

@@ -5,7 +5,7 @@ function ExampleComponent() {
   const [otherState, setOtherState] = useState(0);
 
   const expensiveCalculation = useMemo(() => {
-    console.log('Expensive calculation running...');
+    console.log('Expensive calculation running...'); 
     return count * 2;
   }, [count]);
 

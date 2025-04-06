@@ -3,7 +3,8 @@ import { useCart } from '../context/CartContext';
 import { useNavigate } from 'react-router-dom';
 
 const Cart = () => {
-  const { cartItems, removeFromCart, updateQuantity, totalPrice, searchItems, searchQuery,   totalItems ,removeAll} = useCart();
+  const { cartItems, removeFromCart, updateQuantity, totalPrice, 
+    searchItems, searchQuery,   totalItems ,removeAll} = useCart();
   const navigate = useNavigate();
 
   function thongbao() {

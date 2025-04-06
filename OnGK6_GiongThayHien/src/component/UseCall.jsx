@@ -13,8 +13,6 @@ function ParentComponent() {
   const increment = useCallback(() => {
     setCount(prev => prev + 1);
   }, []);
-
-
   const decrement = () => {
     setCount(prev => prev - 1);
   };
