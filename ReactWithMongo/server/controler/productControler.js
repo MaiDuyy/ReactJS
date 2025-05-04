@@ -12,7 +12,7 @@ export const create = async (req, res) => {
         if(productExist) {
             return res.status(400).json({message : "Product already exitss"});
         }
-
+        
         const savedData = await newProduct.save();
         res.status(200).json(savedData);
     } catch {
